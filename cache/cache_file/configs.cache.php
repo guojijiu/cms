@@ -2,19 +2,19 @@
 return array (
   'contents' => 
   array (
-    'site_name' => '广州市电梯行业协会',
-    'site_url' => 'http://1.12.181.127/',
-    'site_keyword' => '广州市电梯行业协会',
-    'site_description' => '广州市电梯行业协会',
-    'site_copyright' => '广州市电梯行业协会',
+    'site_name' => '我的网站',
+    'site_url' => 'http://local.cms.com/',
+    'site_keyword' => 'YzmCMS演示站',
+    'site_description' => '文章qqq',
+    'site_copyright' => '我的网站',
     'site_filing' => '京ICP备666666号',
     'site_code' => '',
     'site_theme' => 'default',
-    'site_logo' => '/uploads/202406/13/240613060536165.png',
+    'site_logo' => '/uploads/202406/28/240628025756132.png',
     'url_mode' => '1',
     'is_words' => '0',
-    'upload_maxsize' => '2048',
-    'upload_types' => 'zip|rar|ppt|doc|xls|pdf|docx',
+    'upload_maxsize' => '2048000',
+    'upload_types' => 'zip|rar|ppt|doc|xls',
     'upload_image_types' => 'png|jpg|jpeg|gif',
     'watermark_enable' => '0',
     'watermark_name' => 'mark.png',
@@ -73,6 +73,6 @@ return array (
     'blacklist_ip' => '',
   ),
   'expire' => 0,
-  'mtime' => 1724309116,
+  'mtime' => 1724751941,
 );
 ?>
