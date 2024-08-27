@@ -1,3 +1,6 @@
 .idea
-cache
+cache/cache_file
+cache/index
+cache/member
+cache/mobile
 common/config/config.php
